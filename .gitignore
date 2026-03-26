@@ -1,3 +1,6 @@
 .env
 /old/
-/data/
+/data/final
+/data/processed
+/data/raw
+/data/scored
